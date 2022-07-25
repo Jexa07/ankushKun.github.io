@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ankush Singh</title>
+    <link>https://ankushKun.github.io/</link>
+    <description>Recent content on Ankush Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>﫥 Ankush Singh</copyright>
+    <lastBuildDate>Mon, 25 Jul 2022 16:27:09 +0530</lastBuildDate><atom:link href="https://ankushKun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ankushKun.github.io/posts/about/</link>
+      <pubDate>Mon, 25 Jul 2022 16:27:09 +0530</pubDate>
+      
+      <guid>https://ankushKun.github.io/posts/about/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ankushKun.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ankushKun.github.io/about/</guid>
+      <description>Hi, I am Ankush Singh 👋 💻 Fullstack Dev 🎮 Game Developer ⛓ Blockchain Dev 🥸 I am a GEEK</description>
+      <content>&lt;img src=&#34;https://ankushKun.github.io/nihon.png&#34; alt=&#34;Profile Photo&#34; width=&#34;150px&#34; align=&#34;right&#34; style=&#34;border-radius:4px;&#34;&gt;
+&lt;h1 id=&#34;hi-i-am-ankush-singh-&#34;&gt;Hi, I am Ankush Singh 👋&lt;/h1&gt;
+&lt;p&gt;💻  Fullstack Dev &lt;br&gt;
+🎮  Game Developer &lt;br&gt;
+⛓  Blockchain Dev &lt;br&gt;
+🥸  I am a GEEK&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Timeline</title>
+      <link>https://ankushKun.github.io/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ankushKun.github.io/timeline/</guid>
+      <description>Year 2022 🧑‍🎓 Passed out High School [12th Standard] Scored 82% 🎉 Going to pursue Computer Science and Engineering. 💪 Participated in TezAsia Hackathon Learnt how to write and deploy Smart Contracts on Tezos Blockchain using smartpy. Built Smart Contracts for creating blog posts on-chain. Built Frontend application to interact with the Contract using NextJS, Taquito and Beacon-SDK. 🏁 Developed Better PW Lightweight Client for the Physics Wallah education platform.</description>
+      <content>&lt;details open&gt;
+&lt;summary&gt;&lt;b&gt;Year 2022&lt;/b&gt;&lt;/summary&gt;
+&lt;h1 id=&#34;-passed-out-high-school-12th-standard&#34;&gt;🧑‍🎓 Passed out High School [12th Standard]&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Scored 82% 🎉&lt;/li&gt;
+&lt;li&gt;Going to pursue Computer Science and Engineering.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-participated-in-tezasia-hackathon&#34;&gt;💪 Participated in TezAsia Hackathon&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Learnt&lt;/strong&gt; how to write and deploy Smart Contracts on &lt;strong&gt;Tezos Blockchain&lt;/strong&gt; using &lt;strong&gt;smartpy&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Built Smart Contracts&lt;/strong&gt; for creating blog posts on-chain.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Built Frontend application&lt;/strong&gt; to interact with the Contract using &lt;strong&gt;NextJS&lt;/strong&gt;, &lt;strong&gt;Taquito&lt;/strong&gt; and &lt;strong&gt;Beacon-SDK&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-developed-better-pwhttpsbetterpwlive&#34;&gt;🏁 Developed &lt;a href=&#34;https://betterpw.live&#34;&gt;Better PW&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Lightweight Client for the Physics Wallah education platform.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-started-developing-desonityhttpsgithubcomdesonitydesonity&#34;&gt;🛠 Started developing &lt;a href=&#34;https://github.com/Desonity/Desonity&#34;&gt;Desonity&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;A Unity3D extension that allows developers to integrate the DeSo Blockchain into Unity games.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-built-a-prototype-of-buying-in-game-items-as-nftshttpsyoutube-ute7gnizxk&#34;&gt;🏁 Built a &lt;a href=&#34;https://youtu.be/-Ute7GNiZxk&#34;&gt;prototype of buying in-game items as NFTs&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Using Unity 3D game engine and DeSo Blockchain.&lt;/li&gt;
+&lt;li&gt;A marketplace could be setup without explicitly needing a backend server to handle in-game purchases as the same could be done through the Blockchain network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;details&gt;
+&lt;summary&gt;Year 2021&lt;/summary&gt;
+&lt;h1 id=&#34;-started-building-cordifyhttpscordifyapp&#34;&gt;🛠 Started building &lt;a href=&#34;https://cordify.app&#34;&gt;Cordify&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Tool to bridge the gap between web2 (twitter, reddit, etc) platforms with web3 DeSo platform.&lt;/li&gt;
+&lt;li&gt;Started out as a Discord bot that added features of the blockchain into Discord servers, and now is a full fledged application integrating Discord, Twitter and more platforms with DeSo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-built-animedoro-timer&#34;&gt;🏁 Built Animedoro Timer&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Timer app built in Vanilla HTML, CSS and Javascript.&lt;/li&gt;
+&lt;li&gt;Useful tool for studying, working.&lt;/li&gt;
+&lt;li&gt;Ability to set custom work/break timers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;details&gt;
+&lt;summary&gt;Year 2020&lt;/summary&gt;
+&lt;h1 id=&#34;-started-discord-bot-development&#34;&gt;🛠 Started Discord Bot Development&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Using discord.py&lt;/li&gt;
+&lt;li&gt;Built many bots and tools.&lt;/li&gt;
+&lt;li&gt;Mastered discord.py 😤&lt;/li&gt;
+&lt;li&gt;Did couple of paid gigs (Server and Bot dev)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-passed-out-middle-school-10th-standard&#34;&gt;🧑‍🎓 Passed out Middle School [10th Standard]&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Scored 89% 🎉&lt;/li&gt;
+&lt;li&gt;Started High School [12th Standard]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-did-my-first-freelance-gig&#34;&gt;💪 Did my first freelance gig&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Built an AR application that would scan childrens picture books (birds) and play their sound.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-developed-a-vr-game---cheap-saberhttpsyoutubeq86asydyh1q&#34;&gt;🕹 Developed a VR game - &lt;a href=&#34;https://youtu.be/q86asyDYh1Q&#34;&gt;Cheap Saber&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Clone of Beat Saber, playable on android VR devices.&lt;/li&gt;
+&lt;li&gt;Utilises Augument Reality marker based tracking to move virtual sabers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-participated-in-a-vxr-hackathonhttpsyoutubesamul0utf_m-by-vrocks&#34;&gt;💪 Participated in a &lt;a href=&#34;https://youtu.be/saMuL0UTF_M&#34;&gt;VXR hackathon&lt;/a&gt; by VRocKS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a VR story telling demo for Android VR devices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-built-a-human-following-arduino-car&#34;&gt;🏁 Built a Human following Arduino Car&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Shortly after the TinkerFest Competition, I built this car that will detect any human through a phones camera and follow them.&lt;/li&gt;
+&lt;li&gt;Learnt about OpenCV.&lt;/li&gt;
+&lt;li&gt;Felt good because it worked (unlike the one from tinkerfest 🤭)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-participated-in-tinker-fest-robotics-competitionhttpsyoutubevjoej9bbaw4&#34;&gt;💪 Participated in &lt;a href=&#34;https://youtu.be/vjoeJ9Bbaw4&#34;&gt;Tinker Fest Robotics Competition&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Built an autonomous, trash seggrating robot car using LEGO as the body frame and Arduino + Android Mobile as the Brain 🧠&lt;/li&gt;
+&lt;li&gt;Although our bot did not function as ecpected, we learnt a lot and had fun.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-started-learning-python&#34;&gt;🛠 Started learning Python&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;print(&amp;quot;Hello World&amp;quot;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;details&gt;
+&lt;summary&gt;Year 2019&lt;/summary&gt;
+&lt;h1 id=&#34;-started-learning-game-dev&#34;&gt;🛠 Started learning Game Dev&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Debug.Log(&amp;quot;Published some games on Play Store and got banned afterwards 🤡&amp;quot;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-built-a-model-version-of-a-light-interferometerhttpsyoutube1wsnnyr_aog&#34;&gt;💪 Built a model version of a &lt;a href=&#34;https://youtu.be/1WsnnyR_AOg&#34;&gt;Light Interferometer&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Using a Microscope slide, 2 pieces of mirrors (that I broke in half), a cheap lazer pointer and a lens I salvaged from another lazer pointer.&lt;/li&gt;
+&lt;li&gt;Similar arrangement like the LIGO.&lt;/li&gt;
+&lt;li&gt;Interference pattern was slightly visible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-performed-the-double-slit-experimenthttpsyoutubec2jy_rjxq0i&#34;&gt;💪 Performed the &lt;a href=&#34;https://youtu.be/C2Jy_RJXQ0I&#34;&gt;Double Slit Experiment&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Using a cheap lazer pointer and insulating tape.&lt;/li&gt;
+&lt;li&gt;Learnt about Dual Nature of Light.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;details&gt;
+&lt;summary&gt;Year 2018&lt;/summary&gt;
+&lt;h1 id=&#34;-my-attempt-at-building-an-arduino-cubesathttpsyoutubeakaxjp3dqhq&#34;&gt;🛠 My Attempt at building an &lt;a href=&#34;https://youtu.be/aKaxJP3DqhQ&#34;&gt;Arduino CubeSat&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;3D printed frame.&lt;/li&gt;
+&lt;li&gt;Working CW telemetry over 433MHz RF.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-built-an-ultrasonic-standing-wave-levitatorhttpsyoutubegprqpz39_uu&#34;&gt;🏁 Built an Ultrasonic &lt;a href=&#34;https://youtu.be/gpRQpz39_UU&#34;&gt;Standing Wave &amp;lsquo;Levitator&amp;rsquo;&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Followed an instructable article to and ripped apart couple of ultrasonic modules to build a mini levitator thingie.&lt;/li&gt;
+&lt;li&gt;Learnt about Standing Waves.&lt;/li&gt;
+&lt;li&gt;Small pieces of paper/styrofoam could be held in air at specific nodes of standing waves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-assembled-my-first-3d-printer-ender-3&#34;&gt;🧑‍🔧 Assembled my first 3D printer [Ender 3]&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Since then I have learnt a lot about the tech behind 3D printing and assembled more than 6 printers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-got-an-arduino-uno&#34;&gt;😳 Got an Arduino UNO&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Learnt about IoT, embeded circuits, electronics.&lt;/li&gt;
+&lt;li&gt;Built random fun projects with the UNO and various Modules.&lt;/li&gt;
+&lt;li&gt;Built cool stuff with the power of LEGO and Arduino.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-built-a-lego-line-followerhttpsyoutube-na_rv9vvze-and-modified-gears-to-speed-it-uphttpsyoutubemth1pjq7kqo&#34;&gt;🏁 Built a &lt;a href=&#34;https://youtu.be/-nA_rv9vvZE&#34;&gt;LEGO line follower&lt;/a&gt; and &lt;a href=&#34;https://youtu.be/mTh1pjq7Kqo&#34;&gt;modified gears to speed it up&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Learnt about gear ratios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-started-learning-java&#34;&gt;🛠 Started learning Java&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;System.out.println(&amp;quot;For Academic Purposes&amp;quot;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;details&gt;
+&lt;summary&gt;Year 2017&lt;/summary&gt;
+&lt;h1 id=&#34;-made-html-tutorials&#34;&gt;🤣 Made HTML tutorials&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;School had HTML and CSS in out curriculum so I made video tutorials and uploaded them on youtube for my friends to learn from 😆&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-participated-in-a-cubing-competition-for-the-first-time&#34;&gt;💪 Participated in a Cubing Competition for the first time&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Got an average time around 40 seconds and personal best 34 seconds.&lt;/li&gt;
+&lt;li&gt;Met Akash Rupela the Indian record holder for fastest 3x3 solve 😳&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-got-interested-into-science-made-videos-on-youtube&#34;&gt;🧑‍🔬 Got interested into Science made videos on youtube&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Homemade Litmus paper and indicator solution&lt;/li&gt;
+&lt;li&gt;Theory behind how LIGO detects gravitational waves&lt;/li&gt;
+&lt;li&gt;and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;details&gt;
+&lt;summary&gt;Year 2016&lt;/summary&gt;
+&lt;h1 id=&#34;-learnt-my-first-programming-language---basic&#34;&gt;🤓 Learnt my first programming language - BASIC&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Good ol&amp;rsquo; days&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-got-interested-into-science-made-videos-on-youtube-1&#34;&gt;🧑‍🔬 Got interested into Science made videos on youtube&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Homemade Litmus paper and indicator solution&lt;/li&gt;
+&lt;li&gt;Theory behind how LIGO detects gravitational waves&lt;/li&gt;
+&lt;li&gt;and more in the following years&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;</content>
+    </item>
+    
+  </channel>
+</rss>
