@@ -3,10 +3,16 @@ title: "Timeline"
 draft: false
 ---
 
+<style>
+summary{
+    cursor:pointer;
+}
+</style>
+
 <details open>
 <summary><b>Year 2022</b></summary>
 
-# 🧑‍🎓 Passed out High School [12th Standard]
+# 🧑‍🎓 Graduated High School [12th Standard]
 - Scored 82% 🎉
 - Going to pursue Computer Science and Engineering.
 
@@ -55,7 +61,7 @@ draft: false
 - Mastered discord.py 😤
 - Did couple of paid gigs (Server and Bot dev)
 
-# 🧑‍🎓 Passed out Middle School [10th Standard]
+# 🧑‍🎓 Graduated Middle School [10th Standard]
 - Scored 89% 🎉
 - Started High School [12th Standard]
 

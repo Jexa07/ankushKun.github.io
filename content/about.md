@@ -11,3 +11,5 @@ draft: false
 🎮  Game Developer \
 ⛓  Blockchain Dev \
 🥸  I am a GEEK
+
+🔖  [Checkout my resume](/resume.pdf)
