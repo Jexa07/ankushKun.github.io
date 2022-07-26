@@ -61,6 +61,9 @@ summary{
 - Mastered discord.py 😤
 - Did couple of paid gigs (Server and Bot dev)
 
+# 🛠 Started learning Python
+- `print("Hello World")`
+
 # 🧑‍🎓 Graduated Middle School [10th Standard]
 - Scored 89% 🎉
 - Started High School [12th Standard]
@@ -83,9 +86,6 @@ summary{
 # 💪 Participated in [Tinker Fest Robotics Competition](https://youtu.be/vjoeJ9Bbaw4)
 - Built an autonomous, trash seggrating robot car using LEGO as the body frame and Arduino + Android Mobile as the Brain 🧠
 - Although our bot did not function as ecpected, we learnt a lot and had fun.
-
-# 🛠 Started learning Python
-- `print("Hello World")`
 
 </details>
 
@@ -144,16 +144,11 @@ summary{
 <summary>Year 2017</summary>
 
 # 🤣 Made HTML tutorials
-- School had HTML and CSS in out curriculum so I made video tutorials and uploaded them on youtube for my friends to learn from 😆
+- School had HTML and CSS in our curriculum so I made video tutorials and uploaded them on youtube for my friends to learn from 😆
 
 # 💪 Participated in a Cubing Competition for the first time
 - Got an average time around 40 seconds and personal best 34 seconds.
-- Met Akash Rupela the Indian record holder for fastest 3x3 solve 😳
-
-# 🧑‍🔬 Got interested into Science made videos on youtube
-- Homemade Litmus paper and indicator solution
-- Theory behind how LIGO detects gravitational waves
-- and more
+- Met Akash Rupela, former Indian record holder for fastest 3x3 solve 😳
 
 </details>
 
