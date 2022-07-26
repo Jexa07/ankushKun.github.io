@@ -16,6 +16,10 @@ summary{
 - Scored 82% 🎉
 - Going to pursue Computer Science and Engineering.
 
+# 💪 Participated in the GMTK Game Jam 2022
+- Theme : Roll of a Dice
+- My submission : [Untitled Dice Game](https://itch.io/jam/gmtk-jam-2022/rate/1616642)
+- Used Godot engine for the first time.
 # 💪 Participated in TezAsia Hackathon
 - **Learnt** how to write and deploy Smart Contracts on **Tezos Blockchain** using **smartpy**.
 - **Built Smart Contracts** for creating blog posts on-chain.
