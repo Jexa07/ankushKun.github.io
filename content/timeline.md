@@ -166,3 +166,8 @@ summary{
 - and more in the following years
 
 </details>
+
+
+<script>
+Array.from(document.links).filter(link => link.hostname != window.location.hostname).forEach(link => link.target = '_blank');
+</script>

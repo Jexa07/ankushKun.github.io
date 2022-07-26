@@ -12,4 +12,5 @@ draft: false
 ⛓  Blockchain Dev \
 🥸  I am a GEEK
 
-🔖  [Checkout my resume](/resume.pdf)
+🔖  [Checkout my resume](/resume.pdf) \
+📨  <a href="mailto:ankush4singh@gmail.com" target="_blank">Contact Me</a>
