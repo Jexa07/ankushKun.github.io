@@ -20,6 +20,8 @@ summary{
 - Theme : Roll of a Dice
 - My submission : [Untitled Dice Game](https://itch.io/jam/gmtk-jam-2022/rate/1616642)
 - Used Godot engine for the first time.
+- Game ranked 1.7K out of 6.1K submissions.
+
 # 💪 Participated in TezAsia Hackathon
 - **Learnt** how to write and deploy Smart Contracts on **Tezos Blockchain** using **smartpy**.
 - **Built Smart Contracts** for creating blog posts on-chain.
