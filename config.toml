@@ -68,7 +68,8 @@ theme = 'terminal'
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        # url = "/about"
+        url = "/"
         weight = 1
 
       # [[languages.en.menu.main]]
