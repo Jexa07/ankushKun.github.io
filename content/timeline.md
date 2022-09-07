@@ -9,12 +9,17 @@ summary{
 }
 </style>
 
-# This page contains a list of all my projects/experiences in chronological order
+# This page contains a list of all my experiences in chronological order
 
 <br>
 
 <details open>
 <summary><b>Year 2022</b></summary>
+
+# 💪 Participated in IC-Hack 2022 Hackathon
+- Organised by IEEE India Council
+- At BMS College of Engineering, Bangalore
+- Secured top 5 position in Education Track ✊
 
 # 📕 Started College
 

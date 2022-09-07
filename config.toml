@@ -72,11 +72,11 @@ theme = 'terminal'
         url = "/"
         weight = 1
 
-      # [[languages.en.menu.main]]
-      #   identifier = "blog"
-      #   name = "Blog"
-      #   url = "/posts"
-      #   weight = 2
+      [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/posts"
+        weight = 2
 
       [[languages.en.menu.main]]
         identifier = "timeline"
