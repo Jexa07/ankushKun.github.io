@@ -5,7 +5,7 @@ draft: false
 
 <img src="/nihon.png" alt="Profile Photo" width="150px" align="right" style="border-radius:4px;">
 
-<a href="ankushkun.github.io/srt-resume.html"># Hi, I am Ankush Singh 👋</a>
+# <a href="/srt-resume.html">Hi, I am Ankush Singh 👋</a>
 
 💻 Fullstack Dev \
 🎮 Game Developer \
